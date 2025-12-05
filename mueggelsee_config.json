@@ -1,0 +1,19 @@
+{
+  "del_time_lk": 86400.0,
+  "time_step_number": 6210,
+  "save_interval_n": 1,
+  "t_wml_in": 4.0,
+  "t_bot_in": 4.0,
+  "h_ml_in": 3.0,
+  "meteofile": "Potseam80-96.eat",
+  "outputfile": "Mueggelsee80-96.rslt",
+  "depth_w_lk": 4.5,
+  "fetch_lk": 4000.0,
+  "sediments_on": true,
+  "depth_bs_lk": 3.0,
+  "t_bs_lk": 4.0,
+  "latitude_lk": 51.0,
+  "nband_optic": 1,
+  "frac_optic": 1,
+  "extincoef_optic": 0.7
+}
